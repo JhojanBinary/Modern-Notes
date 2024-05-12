@@ -1,0 +1,69 @@
+html{
+    font-size: 10px;
+}
+
+body{
+    background-color: blanchedalmond;
+    font-size: 1.6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    overflow: hidden;
+
+}
+
+
+.layout__content1, .layout__content2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+
+.content__notes{
+    width: 30rem;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    border: solid 2px whitesmoke;
+    box-shadow: 0 0 10px whitesmoke;
+}
+.content__notes:hover{
+    background-color: rgba(0, 0, 0, 0.171);
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.753);
+    transition: all 300ms ease-in;
+}
+
+.button__edit{
+    width: 7rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: cornflowerblue;
+    border: none;
+    cursor: pointer;
+    
+    
+}
+
+.button__delete{
+    width: 7rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: rgb(237, 100, 100);
+    border: none;
+    cursor: pointer; 
+}
+.button__delete:hover,
+.button__edit:hover{
+    border: solid 2px whitesmoke;
+    box-shadow: 0 0 10px whitesmoke;
+ }
+
+
+
+
+
+
+.content__title{
+    text-align: center;
+    font-weight: 900;
+}
