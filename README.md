@@ -6,5 +6,8 @@ diseño libre:
 
 
 recuerda darle tu estilo :)
-![image](https://github.com/JhojanBinary/Moderns-Notes/assets/102551448/5693f58a-02b2-4a3f-9685-05e948f7b8f5)
-![image](https://github.com/JhojanBinary/Moderns-Notes/assets/102551448/d58b4d47-ceec-41ba-90f2-0e25f1908fab)
+
+![image](https://github.com/JhojanBinary/Modern-Notes/assets/102551448/1cb6b464-5d21-4f9f-87e8-c185f0bef5a8)
+
+![image](https://github.com/JhojanBinary/Modern-Notes/assets/102551448/183718ec-2157-4d0d-a9b3-b8dae55bee63)
+
