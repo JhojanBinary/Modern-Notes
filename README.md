@@ -1,7 +1,7 @@
 # Moderns-Notes
 CSS13
 
-Diseña una cuadricula de tarjetas donde el usuaruio pueda editar y eliminar su contenido(apuntes)
+Diseña una cuadricula de tarjetas donde el usuario pueda editar y eliminar su contenido(apuntes)
 diseño libre:
 
 
